@@ -1,0 +1,10 @@
+OASIS INFOBYTE
+Online Examination System
+Track: Java Development
+Task: Task 4
+
+Before submitting:
+1. Run the application and capture genuine screenshots of login, dashboard, exam and results.
+2. Add your screenshots to a folder named screenshots/.
+3. Replace the demo candidate display name with your own name if desired.
+4. Verify your own final GitHub repository URL and internship submission form details.
