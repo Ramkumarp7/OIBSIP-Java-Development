@@ -1,0 +1,3 @@
+OASIS INFOBYTE | Java Development | Task 3: ATM Interface
+This package is the GUI edition requested by the user. If the evaluator strictly requires console interaction, retain the earlier console version as the compliance edition.
+Capture genuine screenshots: login, dashboard, withdraw, deposit, transfer confirmation and transaction history.

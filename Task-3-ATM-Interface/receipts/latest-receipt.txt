@@ -1,0 +1,10 @@
+OASIS INFOBYTE - ATM RECEIPT
+----------------------------------------
+Account holder: Ram Kumar
+Account number: 10010001
+Transaction: WITHDRAW
+Amount: ₹5,000.00
+Details: Cash withdrawal
+Date: 15 Nov 2026, 05:35 pm
+Available balance: ₹20,000.00
+----------------------------------------
